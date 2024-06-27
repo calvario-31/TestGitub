@@ -1,1 +1,2 @@
+hola soy archivo2_2 soyIntelliJ
 hola soy archivo2_2soy conflictivo
